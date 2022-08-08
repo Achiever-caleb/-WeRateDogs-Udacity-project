@@ -1,0 +1,2 @@
+#  WeRateDogs Udacity project
+ 
